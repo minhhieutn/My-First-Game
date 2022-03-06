@@ -1,5 +1,5 @@
 # My-First-Game
-Press a, s, d, w to control the snake!!!
+Press a/A, d/D, s/S, w/W to control the snake!!!
 
 Press 'a/A' to move left
 
